@@ -1,7 +1,8 @@
 # G2ST:GENERAL2SPECIALIZED LLMS TRANSLATION FOR E-COMMERCE
 ## 1. English to Chinese Translation
 ### Contrastive Experiments
-![image](https://github.com/kdchen6/G2ST/assets/45554268/79b3796c-017f-4eb9-a134-023e0d4300c5)
+![image](https://github.com/kdchen6/G2ST/assets/45554268/9ffb3512-31da-4eeb-9e33-2903354992bc)
+
 
 ### Ablation Study
 
