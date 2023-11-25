@@ -1,5 +1,5 @@
 # G2ST:GENERAL2SPECIALIZED LLMS TRANSLATION FOR E-COMMERCE
-## 1. English to Chinese Translation
+## English to Chinese Translation
 ### Contrastive Experiments
 ![image](https://github.com/kdchen6/G2ST/assets/45554268/9ffb3512-31da-4eeb-9e33-2903354992bc)
 
